@@ -20,7 +20,6 @@ function App() {
             />
           </ul>
         </section>
-        <h2>Time to get started!</h2>
       </main>
     </div>
   );
